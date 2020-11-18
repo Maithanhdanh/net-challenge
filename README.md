@@ -34,7 +34,7 @@
 
 ## APIs
 
-**This is list of APIs running on Postman *https://www.getpostman.com/collections/473b84d171e5f3a3a54a***
+**This is list of APIs running on Postman *https://www.getpostman.com/collections/483056e3a36ec5736be3***
 
 *As usual, the environment variables files (.env) will be hide. However, in this case, I add them for easier to setup to run on local*
 
