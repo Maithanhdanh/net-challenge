@@ -85,7 +85,7 @@
 
 ## Workflow
 
-![alt text](./img/net_challenge.PNG "Workflow")
+![alt text](./img/net_challenge.png "Workflow")
 
 ## Data structure
 
