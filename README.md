@@ -21,9 +21,9 @@
 
 #### Localhost: *all of services need to run on local*
 
-- in resgistry folder, run `npm start`
-- in customer folder, run `npm start`
-- in product folder, run `npm start`
+- in resgistry folder, run `npm install`, then `npm start`
+- in customer folder, run `npm install`, then `npm start`
+- in product folder, run `npm install`, then `npm start`
 
 *Note: you must to start registry service first*
 ### Test
